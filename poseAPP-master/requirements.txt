@@ -1,0 +1,10 @@
+Cython
+numpy
+matplotlib
+requests
+pycocotools-windows
+pillow
+opencv-python
+opencv-contrib-python
+fastdtw
+scipy
